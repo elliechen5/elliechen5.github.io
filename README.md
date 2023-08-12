@@ -1,4 +1,4 @@
-# 🌟 Ellie Chen 🌟
+# Ellie Chen
 
 ## 📚 **About Me**
 🎓 **Johns Hopkins University** | 📘 **Economics Major**
