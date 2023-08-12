@@ -1,16 +1,22 @@
-# Ellie Chen
+# 🌟 Ellie Chen 🌟
 
-**Student at Johns Hopkins University | Economics Major**
+## 📚 **About Me**
+🎓 **Johns Hopkins University** | 📘 **Economics Major**
 
-### Brief Overview
-- **Experience**: Treasurer & PR Chair at *The Notes of Ranvier A Cappella*, Server at *Kajiken USA*, Venture Capital Intern at *CBM Partners*, and more.
-- **Education**: Pursuing B.A. in Economics at **Johns Hopkins University**.
-- **Volunteering**: International Project Committee Chair at *Interact: Rotary Sponsored Club* and Chapter President at *California Scholarship Federation*.
-
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/ellie-chen/)
-
-For a detailed resume and more about me, visit my [personal website](#).
+### 🚀 **Quick Highlights**
+- 🎵 **Roles** at *The Notes of Ranvier A Cappella*: Treasurer & PR Chair.
+- 🍜 **Server** at *Kajiken USA*.
+- 💼 **Venture Capital Intern** at *CBM Partners*.
+- 🌍 **Volunteer Leadership** at *Interact: Rotary Sponsored Club* & *California Scholarship Federation*.
 
 ---
 
+<div align="center">
+
+🔗 [**Connect with me on LinkedIn**](https://www.linkedin.com/in/ellie-chen/)
+<br>
+🌐 [**Visit my Personal Website**](#)
+<br><br>
 Ⓒ 2023 Ellie Chen. All rights reserved.
+
+</div>
