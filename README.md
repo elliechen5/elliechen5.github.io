@@ -11,12 +11,8 @@
 
 ---
 
-<div align="center">
-
 🔗 [**Connect with me on LinkedIn**](https://www.linkedin.com/in/ellie-chen/)
 <br>
 🌐 [**Visit my Personal Website**](#)
 <br><br>
 Ⓒ 2023 Ellie Chen. All rights reserved.
-
-</div>
